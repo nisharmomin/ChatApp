@@ -6,10 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ripsy",
+  "author": "Nishar",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.19",
     "socket.io": "^4.4.0"
   }
 }
